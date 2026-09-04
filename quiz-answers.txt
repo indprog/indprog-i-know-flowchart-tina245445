@@ -1,11 +1,3 @@
-Why do programmers typically use a repository for their software projects? 
-Answer: To keep track of changes 
-
-Which of the following is/are correct? 
-Answer:
-A condition can be nested in another condition. 
-A compound condition tests multiple conditions at once. 
-A condition has usually two flowlines going out of it, one for true and one for false. 
-
-If we want to count from 1 to 10 in a flowchart, which of the following to we typically use? 
-Answer: Variable 
+1
+3,4,5
+1
