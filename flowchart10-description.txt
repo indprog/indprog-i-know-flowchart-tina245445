@@ -1,0 +1,15 @@
+1. Start
+
+2. Ask if I want tea.
+
+3. If I do not want tea, output a message and end.
+
+4. If I want tea:
+a. Boil the water.
+b. Put a tea bag in the cup.
+c. Pour hot water.
+d. Wait 2-3 minutes.
+e. Remove the tea bag.
+f. Output that the tea is ready.
+
+5. End.
